@@ -66,7 +66,7 @@ public class TombolaPanel extends JPanel implements ActionListener, MouseListene
         tombolaLabel = new TombolaLabel("input.txt");
         tombolaLabel.setFont(new Font("Nimbus Sans L", Font.BOLD, 74));
         tombolaLabel.setForeground(Color.WHITE);
-        tombolaLabel.setBounds(50, 180, 930, 200);
+        tombolaLabel.setBounds(50, 210, 930, 170);
         tombolaLabel.setHorizontalTextAlignment(JLabel.CENTER);
         tombolaLabel.setOutlineColor(Color.BLACK);
         tombolaLabel.setBorder(new LineBorder(Color.GRAY));

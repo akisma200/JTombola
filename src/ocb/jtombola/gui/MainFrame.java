@@ -12,7 +12,7 @@ public class MainFrame extends JFrame implements WindowListener {
     public MainFrame() {
         this.pnltombola = new TombolaPanel();
         this.add(pnltombola);
-        this.setTitle("JTombola 2016");
+        this.setTitle("Thales Tombola 2018");
         this.setResizable(false);
         this.setSize(1024, 750);
         this.setLocationRelativeTo(null);

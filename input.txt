@@ -1,0 +1,43 @@
+Alan Turing
+Brendan Eich
+Jean E. Sammet
+Donald Knuth
+Alain Colmerauer
+Grace Hopper
+Anders Hejlsberg
+Tim Berners-Lee
+Karen Spärck Jones
+Roberto Ierusalimschy
+Monica S. Lam
+Edsger Dijkstra
+Radia Perlman
+Martin Odersky
+Ada Lovelace
+Larry Wall
+Alan Kay
+Dan Ingalls
+Ken Thompson
+Philip Wadler
+Anita Borg
+Dennis Ritchie
+Niklaus Wirth
+Stephen Wolfram
+John von Neumann
+John McCarthy
+Frances Elizabeth Allen
+Larry Page
+Serguéi Brin
+James Gosling
+Shafrira Goldwasser
+Stephen Wozniak
+Barbara Liskov
+Leslie Lamport
+Adele Goldberg
+John Backus
+Brian Kernighan
+Lynn Conway
+Marvin Minsky
+Margaret Hamilton
+Guido van Rossum
+Sophie Wilson
+Miguel de Icaza

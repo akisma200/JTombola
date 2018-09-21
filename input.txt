@@ -1,42 +1,41 @@
-t0193215 Alan Turing
-t0193215 Brendan Eich
-t0193215 Jean E. Sammet
-t0193215 Donald Knuth
-t0193215 Alain Colmerauer
-t0193215 Grace Hopper
-t0193215 Anders Hejlsberg
-t0193215 Tim Berners-Lee
-t0193215 Karen Spärck Jones
-t0193215 Roberto Ierusalimschy
-t0193215 Monica S. Lam
-t0193215 Edsger Dijkstra
-t0193215 Radia Perlman
-t0193215 Martin Odersky
-t0193215 Ada Lovelace
-t0193215 Larry Wall
-t0193215 Alan Kay
-t0193215 Dan Ingalls
-t0193215 Ken Thompson
-t0193215 Philip Wadler
-t0193215 Anita Borg
-t0193215 Dennis Ritchie
-t0193215 Niklaus Wirth
-t0193215 Stephen Wolfram
-t0193215 t0193215 Jt0193215 ohn McCarthy
-t0193215 Frances Elizabeth Allen
-t0193215 Larry Page
-t0193215 Serguéi Brin
-t0193215 James Gosling
-t0193215 Shafrira Goldwasser
-t0193215 Stephen Wozniak
-t0193215 Barbara Liskov
-t0193215 Leslie Lamport
-t0193215 Adele Goldberg
-t0193215 John Backus
-t0193215 Brian Kernighan
-t0193215 Lynn Conway
-t0193215 Marvin Minsky
-t0193215 Margaret Hamilton
-t0193215 Guido van Rossum
-t0193215 St0193215 ophie Wilson
-t0193215 Miguel de Icaza
+t0193215: Alan Turing
+t0193215: Brendan Eich
+t0193215: Jean E. Sammet
+t0193215: Donald Knuth
+t0193215: Alain Colmerauer
+t0193215: Grace Hopper
+t0193215: Anders Hejlsberg
+t0193215: Tim Berners-Lee
+t0193215: Karen Spärck Jones
+t0193215: Roberto Ierusalimschy
+t0193215: Monica S. Lam
+t0193215: Edsger Dijkstra
+t0193215: Radia Perlman
+t0193215: Martin Odersky
+t0193215: Ada Lovelace
+t0193215: Larry Wall
+t0193215: Alan Kay
+t0193215: Dan Ingalls
+t0193215: Ken Thompson
+t0193215: Philip Wadler
+t0193215: Anita Borg
+t0193215: Dennis Ritchie
+t0193215: Niklaus Wirth
+t0193215: Stephen Wolfram
+t0193215: t0193215 Jt0193215 ohn McCarthy
+t0193215: Frances Elizabeth Allen
+t0193215: Larry Page
+t0193215: Serguéi Brin
+t0193215: James Gosling
+t0193215: Shafrira Goldwasser
+t0193215: Stephen Wozniak
+t0193215: Barbara Liskov
+t0193215: Leslie Lamport
+t0193215: Adele Goldberg
+t0193215: John Backus
+t0193215: Lynn Conway
+t0193215: Marvin Minsky
+t0193215: Margaret Hamilton
+t0193215: Guido van Rossum
+t0193215: St0193215 ophie Wilson
+t0193215: Miguel de Icaza

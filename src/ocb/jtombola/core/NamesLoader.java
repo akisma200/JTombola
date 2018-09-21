@@ -29,6 +29,18 @@ public class NamesLoader {
             while ((name = br.readLine()) != null) {
                 lstNames.add(name);
             }
+
+            for (String tNum : lstNames) {
+
+                if (tNum.contains(":")) {
+                    String[] output = tNum.split(":");
+                    //System.out.println(output[0]);
+                    //System.out.println(output[1]);
+                }
+
+            }
+
+
         } catch (FileNotFoundException fnfe) {
             fnfe.printStackTrace();
         } catch (IOException ioe) {

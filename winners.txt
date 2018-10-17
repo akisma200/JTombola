@@ -1,1 +1,2 @@
-
+t0191919: Barbara Liskov - Prize No. 1
+t0131313: Dennis Ritchie - Prize No. 2

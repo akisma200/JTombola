@@ -63,8 +63,9 @@ public class TombolaPanel extends JPanel implements ActionListener, MouseListene
         btnGo.addActionListener(this);
         btnGo.addMouseListener(this);
 
+
         tombolaLabel = new TombolaLabel("input.txt");
-        tombolaLabel.setFont(new Font("Nimbus Sans L", Font.BOLD, 74));
+        tombolaLabel.setFont(new Font("Nimbus Sans L", Font.BOLD, 35));
         tombolaLabel.setForeground(Color.WHITE);
         tombolaLabel.setBounds(50, 210, 930, 170);
         tombolaLabel.setHorizontalTextAlignment(JLabel.CENTER);

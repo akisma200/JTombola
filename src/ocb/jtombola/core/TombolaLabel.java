@@ -125,5 +125,5 @@ public class TombolaLabel extends MultiLineLabel implements Runnable {
         isPaintingOutline = false;
         super.paint(g);
         forceTransparent = false;
-    }   
+    }
 }

@@ -11,6 +11,8 @@ import java.util.List;
 public class NamesLoader {
     private String fileName;
     private List<String> lstNames;
+    private List<String> tNum;
+    private List<String> StaffName;
 
     public NamesLoader(String fileName) {
         this.fileName = fileName;
@@ -28,16 +30,6 @@ public class NamesLoader {
             String name;
             while ((name = br.readLine()) != null) {
                 lstNames.add(name);
-            }
-
-            for (String tNum : lstNames) {
-
-                if (tNum.contains(":")) {
-                    String[] output = tNum.split(":");
-                    //System.out.println(output[0]);
-                    //System.out.println(output[1]);
-                }
-
             }
 
 
@@ -58,9 +50,12 @@ public class NamesLoader {
     
     public void saveWinners(List<String> list) {
         try {
+            int num = 0;
             FileWriter fw = new FileWriter("winners.txt");
             for (String name : list) {
-                fw.write(name);
+
+                num++;
+                fw.write(name + " " +num);
                 fw.write(System.getProperty("line.separator"));
             }
             fw.close();

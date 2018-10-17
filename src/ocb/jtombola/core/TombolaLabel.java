@@ -28,7 +28,7 @@ public class TombolaLabel extends MultiLineLabel implements Runnable {
         lstNames = inputList.getList();
         if ( lstNames.isEmpty() ) {
             JOptionPane.showMessageDialog(null, "No names in the input file", "Error", JOptionPane.ERROR_MESSAGE);
-            System.exit(1);
+            System.exit(0);
         }
         lstWinners = new ArrayList<>();
         random = new Random();
@@ -64,6 +64,13 @@ public class TombolaLabel extends MultiLineLabel implements Runnable {
         this.setUI(MultiLineShadowUI.labelUI);
         lstWinners.add(lstNames.get(n));
         lstNames.remove(n);
+
+        if (lstWinners.size() == 144)
+        {
+            JOptionPane.showMessageDialog(null, "THANK YOU FOR PLAYING THALES TOMBOLA, PLAY AGAIN NEXT YEAR!!!", " ", JOptionPane.INFORMATION_MESSAGE);
+            saveWinners();
+            System.exit(0);
+        }
     }
     
     public boolean hasNames() {
@@ -126,4 +133,6 @@ public class TombolaLabel extends MultiLineLabel implements Runnable {
         super.paint(g);
         forceTransparent = false;
     }
+
+
 }

@@ -8,11 +8,10 @@ import java.io.IOException;
 import java.io.FileNotFoundException;
 import java.util.List;
 
+
 public class NamesLoader {
     private String fileName;
     private List<String> lstNames;
-    private List<String> tNum;
-    private List<String> StaffName;
 
     public NamesLoader(String fileName) {
         this.fileName = fileName;
@@ -49,20 +48,25 @@ public class NamesLoader {
     }
     
     public void saveWinners(List<String> list) {
+        int num = 0;
         try {
-            int num = 0;
+
             FileWriter fw = new FileWriter("winners.txt");
             for (String name : list) {
 
                 num++;
-                fw.write(name + " " +num);
+                fw.write(name + " - Prize No. " + num);
                 fw.write(System.getProperty("line.separator"));
+
             }
             fw.close();
+
+
         } catch (FileNotFoundException fnfe) {
             fnfe.printStackTrace();
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
+
     }
 }

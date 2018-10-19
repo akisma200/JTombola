@@ -65,7 +65,7 @@ public class TombolaLabel extends MultiLineLabel implements Runnable {
         lstWinners.add(lstNames.get(n));
         lstNames.remove(n);
 
-        if (lstWinners.size() == 144)
+        if (lstWinners.size() == 180)
         {
             JOptionPane.showMessageDialog(null, "THANK YOU FOR PLAYING THALES TOMBOLA, PLAY AGAIN NEXT YEAR!!!", " ", JOptionPane.INFORMATION_MESSAGE);
             saveWinners();

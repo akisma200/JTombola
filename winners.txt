@@ -1,2 +1,4 @@
 t0191919: Barbara Liskov - Prize No. 1
-t0131313: Dennis Ritchie - Prize No. 2
+t0000000: Edsger Dijkstra - Prize No. 2
+t0974813: Alan Kay - Prize No. 3
+t0222232: Anita Borg - Prize No. 4
